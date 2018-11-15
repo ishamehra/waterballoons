@@ -3,4 +3,4 @@ Observing the effect of Corona Beers on Water Balloon tossing abilities over tim
 
 Participants: Isha & Shreya 
 Location: Pittsburgh Pensylvania
-Technologies Used: R, iCloud Notes
+Technologies Used: R, iCloud Notes, Google Sheets
