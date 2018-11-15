@@ -1,6 +1,6 @@
 ---
 title: "Water Balloons"
-author: "Isha Mehra and Shreya Punya"
+author: "Isha and Shreya"
 output: pdf_document
 ---
 
