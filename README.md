@@ -1,6 +1,6 @@
 # waterballoons
 Observing the effect of Corona Beers on Water Balloon tossing abilities over time.
 
-Participants: Isha Mehra & Shreya Punya
+Participants: Isha & Shreya 
 Location: Pittsburgh Pensylvania
 Technologies Used: R, iCloud Notes
